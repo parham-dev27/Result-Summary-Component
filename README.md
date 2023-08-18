@@ -8,7 +8,7 @@
       Live
     </a>
     <span> | </span>
-    <a href="solution">
+    <a href="https://www.frontendmentor.io/solutions/frontend-mentor-results-summary-component-by-parhamdev27-OUjJq5De_0">
       Solution
     </a>
    <span> | </span>
@@ -45,4 +45,4 @@ I also learned how to use `@font-face` in CSS.
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="solution">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/frontend-mentor-results-summary-component-by-parhamdev27-OUjJq5De_0">solution</a>. It definitely helps to find new ways to code and find easier solutions!
